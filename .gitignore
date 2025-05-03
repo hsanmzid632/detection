@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Python dependencies
+__pycache__/
+*.pyc
+
+# SQLite database
+accidents.db
+
+# Machine learning model
+model.pkl
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+
+# Build files
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
